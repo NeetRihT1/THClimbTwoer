@@ -1,0 +1,13 @@
+{
+    "name": "Hotfix",
+    "references": [
+        "Model",
+        "ThirdParty"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
